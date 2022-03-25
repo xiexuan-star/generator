@@ -6,7 +6,7 @@ function* generator() {
     }
   } catch (e) {
     console.log('end');
-    yield 'end'
+    // yield 'end'
   }
 }
 

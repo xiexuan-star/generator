@@ -5,7 +5,8 @@
       "es5",
       "scripthost",
       "es2015.iterable",
-      "es2015.generator"
+      "es2015.generator",
+      "es2015.promise"
     ]
   }
 }
